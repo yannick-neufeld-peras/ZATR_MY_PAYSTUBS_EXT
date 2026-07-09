@@ -2,7 +2,7 @@
   "fileName": "id_1752048000001_02_propertyChange",
   "fileType": "change",
   "changeType": "propertyChange",
-  "reference": "hcm.fab.mypaystubs",
+  "reference": "hcm.fab.mypaystubs.Component",
   "packageName": "$TMP",
   "layer": "CUSTOMER_BASE",
   "namespace": "apps/hcm.fab.mypaystubs/appVariants/customer.atr.paystubs.ext/changes/",
