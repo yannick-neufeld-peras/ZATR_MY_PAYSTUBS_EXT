@@ -19,7 +19,8 @@
     "newValue": false
   },
   "selector": {
-    "id": "application-app-preview-component---paystubsList--deductionsCol",
+    "id": "paystubsList--deductionsCol",
+    "idIsLocal": true,
     "type": "sap.m.Column"
   },
   "texts": {},

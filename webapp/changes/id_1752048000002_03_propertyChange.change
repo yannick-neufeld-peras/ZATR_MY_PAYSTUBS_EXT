@@ -19,7 +19,8 @@
     "newValue": false
   },
   "selector": {
-    "id": "application-app-preview-component---paystubsList--netPayCol",
+    "id": "paystubsList--netPayCol",
+    "idIsLocal": true,
     "type": "sap.m.Column"
   },
   "texts": {},

@@ -19,7 +19,8 @@
     "newValue": false
   },
   "selector": {
-    "id": "application-app-preview-component---paystubsList--grossPayCol",
+    "id": "paystubsList--grossPayCol",
+    "idIsLocal": true,
     "type": "sap.m.Column"
   },
   "texts": {},
