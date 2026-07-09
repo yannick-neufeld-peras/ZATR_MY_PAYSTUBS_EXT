@@ -1,0 +1,26 @@
+{
+  "fileName": "id_1752048000000_01_propertyChange",
+  "fileType": "change",
+  "changeType": "propertyChange",
+  "reference": "hcm.fab.mypaystubs",
+  "packageName": "$TMP",
+  "projectId": "customer.atr.paystubs.ext",
+  "layer": "CUSTOMER_BASE",
+  "namespace": "apps/hcm.fab.mypaystubs/appVariants/customer.atr.paystubs.ext/changes/",
+  "creation": "2026-07-09T08:00:00.000Z",
+  "originalLanguage": "EN",
+  "support": {
+    "generator": "manual",
+    "service": ""
+  },
+  "content": {
+    "property": "visible",
+    "newValue": false
+  },
+  "selector": {
+    "id": "paystubsList--grossPayCol",
+    "idIsLocal": false
+  },
+  "texts": {},
+  "dependentSelector": {}
+}
