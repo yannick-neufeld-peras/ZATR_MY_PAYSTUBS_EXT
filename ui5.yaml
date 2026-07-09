@@ -42,3 +42,8 @@ server:
             - /test-resources
           url: https://ui5.sap.com
           version: 1.71.77
+builder:
+  resources:
+    excludes:
+      - /test/**
+      - /localService/**
